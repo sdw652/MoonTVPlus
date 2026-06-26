@@ -1,0 +1,6 @@
+{
+  "nodeVersion": "20.18.0",
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm gen:manifest && next build",
+  "outputDirectory": ".next"
+}
